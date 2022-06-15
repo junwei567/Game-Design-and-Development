@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Gomba
+  - Obstacles
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Background
+  - Obstacles
+  - PostProcessing
+  - QuestionBox
+  - Spawned
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1725685751
+    locked: 0
+  - name: BG10
+    uniqueID: 2686360011
+    locked: 0
+  - name: BG9
+    uniqueID: 799603067
+    locked: 0
+  - name: BG8
+    uniqueID: 835891923
+    locked: 0
+  - name: BG7
+    uniqueID: 2664276169
+    locked: 0
+  - name: BG6
+    uniqueID: 2735886421
+    locked: 0
+  - name: Midground
+    uniqueID: 3916562043
+    locked: 0
+  - name: Foreground
+    uniqueID: 3575141783
+    locked: 0
+  - name: Obstacles
+    uniqueID: 3492013265
+    locked: 0
+  - name: Gomba
+    uniqueID: 668952245
+    locked: 0
+  - name: Player
+    uniqueID: 1555606773
+    locked: 0
